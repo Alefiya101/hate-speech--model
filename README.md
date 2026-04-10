@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# hate-speech--model
-=======
+
 # Hate Speech Detection System
 
 A machine learning pipeline to detect hate speech in text, built as a college NLP project.
